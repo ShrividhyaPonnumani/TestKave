@@ -5,5 +5,6 @@ public class Testv2
     {
         System.out.println( "Hello Kave test! test" );
         System.out.println( "Hello Kave test! test" );
+        System.out.println( "Hello Kave test! test" );
     }
 }
